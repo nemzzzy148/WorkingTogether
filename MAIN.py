@@ -12,7 +12,7 @@ screen = pygame.display.set_mode((config.W, config.H))
 
 pygame.display.set_caption(config.TITLE)
 
-# runtime var
+# runtime vars
 
 running = True
 
